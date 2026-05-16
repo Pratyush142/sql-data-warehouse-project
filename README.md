@@ -50,8 +50,7 @@ This project is licensed under the [MIT License].(LICENSE). You are free to use,
 
 ## About Me
 
-Hello, I am Pratyush Kumar Pandey wwith 5+ years of experience as an IT professional
-https://www.linkedin.com/in/pratyush-pandey-0b1462135/
+Hello, I am Pratyush Kumar Pandey wwith 5+ years of experience as an IT professional.
 
 
 
