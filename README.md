@@ -22,7 +22,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 ## Data Architecture
-<img width="1544" height="912" alt="data_architecture" src="https://github.com/user-attachments/assets/b541aa48-f0db-43a6-a006-e2b8795d5651" />
+<img width="761" height="571" alt="architecture" src="https://github.com/user-attachments/assets/d8d35986-1277-4c71-a190-98c20768fdee" />
 
 1. **Bronze Layer**: Stores raw data as is from the source systems. Data is ingested from CSV Files into SQL Server
      Database.
@@ -50,10 +50,8 @@ This project is licensed under the [MIT License].(LICENSE). You are free to use,
 
 ## About Me
 
-Hello, I am Pratyush Kumar Pandey wwith 5+ years of experience as an IT professional.
-
-
-
+Hello, I am Pratyush Kumar Pandey wwith 5+ years of experience as an IT professional
+https://www.linkedin.com/in/pratyush-pandey-0b1462135/ MIT License
 
 
 
